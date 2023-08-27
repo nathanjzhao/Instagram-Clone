@@ -1,1 +1,1 @@
-instagram clone base (want to add special features - wip)
+Instagram Clone
